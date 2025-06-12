@@ -32,6 +32,11 @@ python app.py
 ## 5. Install Node.js
 Download & install: https://nodejs.org/
 Verify:
+
+
+****NOTE*** download this and put it in correct path.
+1. inswapper_128.onnx path : beautyCareAI\server\ai_services\haircut_recommendation\model_files
+2. 
 node -v
 npm -v
 
