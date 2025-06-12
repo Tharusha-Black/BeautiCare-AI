@@ -33,12 +33,12 @@ python app.py
 Download & install: https://nodejs.org/
 Verify:
 
-
-****NOTE*** download this and put it in correct path.
-1. inswapper_128.onnx path : beautyCareAI\server\ai_services\haircut_recommendation\model_files
-2. 
 node -v
 npm -v
 
 ## 6. Run the Frontend
 npx expo start
+
+****NOTE*** download this and put it in correct path.
+1. inswapper_128.onnx path : beautyCareAI\server\ai_services\haircut_recommendation\model_files
+2. model.pth (download : 'https://drive.google.com/drive/folders/1spWAfD1dLznGdb_6hv0Xah7elwgExhjR?usp=sharing') path: beautyCareAI\server\ai_services\ai_services\haircolor_recommendation\model_files
